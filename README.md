@@ -1,20 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ayushman!&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Ayushman!&fontSize=50&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Header Banner"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Scalable+Backends+with+FastAPI;Crafting+Interactive+React+UIs;Solving+Problems+with+DSA" alt="Typing SVG" />
   </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Ayushman2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
-### 💫 About Me
+<br/>
 
-*   🔭 **Currently working on:** Building AI-powered full-stack projects (RAG-based apps, FastAPI backends) and strengthening my problem-solving skills with DSA (LeetCode-style problems in Java & Python).
-*   👯 **Looking to collaborate on:** Hackathon projects, AI/ML-based web applications, and innovative full-stack products using React/Next.js, FastAPI, and modern UI/UX.
-*   🤝 **Looking for help with:** Optimizing ML pipelines, deploying AI models (RAG + LLMs) in production, and improving system design & backend scalability.
-*   🌱 **Currently learning:** Data Structures & Algorithms, Machine Learning concepts, FastAPI for scalable APIs, RAG (Retrieval-Augmented Generation), and advanced frontend development (React, 3D web UI).
-*   💬 **Ask me about:** DSA, FastAPI vs REST, RAG implementation, Python backend development, and building modern portfolios with HTML, CSS & JavaScript.
-*   ⚡ **Fun fact:** I turn hackathon ideas into working prototypes and love blending AI with creative 3D web interfaces 🚀
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h2>💫 About Me</h2>
+      <p>
+        🔭 <b>Currently working on:</b> Building AI-powered full-stack projects (RAG-based apps, FastAPI backends) and strengthening problem-solving skills with DSA.<br/><br/>
+        👯 <b>Looking to collaborate on:</b> Hackathon projects, AI/ML web apps, and innovative products using React/Next.js, FastAPI, and modern UI/UX.<br/><br/>
+        🤝 <b>Looking for help with:</b> Optimizing ML pipelines, deploying AI models in production, and backend scalability.<br/><br/>
+        🌱 <b>Currently learning:</b> Advanced DSA, Machine Learning, RAG, and 3D Web UI.<br/><br/>
+        💬 <b>Ask me about:</b> DSA, FastAPI vs REST, RAG, Python backend, and building modern portfolios.<br/><br/>
+        ⚡ <b>Fun fact:</b> I turn hackathon ideas into working prototypes and love blending AI with creative 3D web interfaces 🚀
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
+<br/>
 
 <hr/>
 
@@ -104,17 +119,23 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayushman2005&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayushman2005&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Banner"/>
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) & dynamically enhanced -->
