@@ -119,17 +119,17 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayushman2005&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayushman2005&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 <br/>
