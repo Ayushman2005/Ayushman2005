@@ -2,10 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Ayushman!&fontSize=50&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Header Banner"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Scalable+Backends+with+FastAPI;Crafting+Interactive+React+UIs;Solving+Problems+with+DSA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Scalable+Backends+with+FastAPI;Crafting+Interactive+React+UIs;Solving+Problems+with+DSA" alt="Typing SVG" />
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Ayushman2005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Ayushman2005">
+    <img src="https://komarev.com/ghpvc/?username=Ayushman2005&label=Profile%20Views&color=bf91f3&style=for-the-badge" alt="Profile Views" />
+  </a>
 </div>
 
 <br/>
@@ -24,10 +26,21 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300" alt="Coding GIF" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<hr/>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ayushman2005&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 
 <br/>
 
@@ -89,6 +102,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro" />
 
   <h3>⚙️ Backend & Database</h3>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -118,18 +132,20 @@
 <hr/>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayushman2005&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <h2>📊 GitHub Stats & Activity</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushman2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Ayushman2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushman2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushman2005&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <br/>
