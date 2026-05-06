@@ -35,12 +35,12 @@
 
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🏆 GitHub Trophies</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Ayushman2005&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7" alt="GitHub Trophies" />
   </a>
-</div>
+</div> -->
 
 <br/>
 
